@@ -1,3 +1,6 @@
+# WeatherCast
+This is a Weather forecaste, which shows 5 days forecast of a particular city.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
