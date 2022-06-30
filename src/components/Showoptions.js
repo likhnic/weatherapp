@@ -32,7 +32,7 @@ const Showoptions = (props) => {
 
     const fetchWeatherData = async (ind) => {
 
-        const apikey = "24fe6463d99221e32b2a6ddf376f49e2";
+        const apikey = "";
         const lat = props.array[ind].lat;
         const lon = props.array[ind].lon;
         const url = `http://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&appid=${apikey}&units=metric`;
